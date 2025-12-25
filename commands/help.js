@@ -19,8 +19,8 @@ const READ_MORE = '\u200B'.repeat(4001);
  * Full Help Message (used only for building slides)
  */
 const HELP_MESSAGE = `
-╭▰▰〔 *ʟᴏꜰᴛ Qᴜᴀɴᴛᴜᴍ* 〕▰▰╮
-✖ 💠 *ʙᴏᴛ ɴᴀᴍᴇ:* PEINCE XMD
+╭▰▰〔 *PRINCE XMD* 〕▰▰╮
+✖ 💠 *ʙᴏᴛ ɴᴀᴍᴇ:* PRINCE XMD
 ✖ 👑 *ᴏᴡɴᴇʀ:* PRINCE
 ✖ ⚙️ *ᴠᴇʀꜱɪᴏɴ:* V8
 ✖ 💻 *ᴘʟᴀᴛꜰᴏʀᴍ:* Linux (𝟸𝟸.𝟶𝟺)
