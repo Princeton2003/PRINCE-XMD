@@ -8,8 +8,8 @@ const channelInfo = {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterJid: '120363422824898123@newsletter',
+            newsletterName: 'PRINCE XMD',
             serverMessageId: -1
         }
     }
